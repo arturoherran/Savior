@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    background-color: #e5ecee;
+}
+
+.navbar-light {
+    background-color: rgb(22, 102, 120);
+}
+
+
+.navbar-nav a {
+    color: white!important;
+    font-weight: 600;
+}
+
+.navbar-nav .dropdown-menu a {
+    color: rgb(255, 195, 17)!important;
+}
+
+.navbar-nav a:hover {
+    color: rgb(125, 185, 179) !important;
+}
+
+.content {
+    background-color: #e5ecee;
+}
